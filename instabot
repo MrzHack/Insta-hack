@@ -8,7 +8,6 @@ figlet " INSTAGRAM TOOLS" | lolcat
 echo -e $kiddes "#####################"
 echo "  # CYBER TEAM # " | lolcat
 echo "  # CREATED BY : MR.Z # " | lolcat
-echo "  # WARNING : DON'T RE-EDIT MY SCRIPT,YOU CAN GET ERROR # " | lolcat
 echo -e $kiddes "#####################"
 echo -e $kiddies"=======================================" 
 echo " [1] INSTAGRAM BOT"  | lolcat

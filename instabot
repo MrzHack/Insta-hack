@@ -13,15 +13,15 @@ echo -e $kiddies"======================================="
 echo " [1] INSTAGRAM BOT"  | lolcat
 echo " [2] INSTAGRAM HACK" | lolcat
 echo -e $kiddies"======================================="
-read -p " [Chose The Number]> " insta;
+read -p " [Chose The Number]> " Instagram;
 
-if [ $insta = 1 ] || [ $insta = 1 ]
+if [ $Instagram = 1 ] || [ $Instagram = 1 ]
 then
 echo "================================================"
 python2 instabot.py;
 fi
 
-if [ $insta = 2 ] || [ $insta = 2 ]
+if [ $Instagram = 2 ] || [ $Instagram = 2 ]
 then
 echo "================================================"
 python2 instahack.py;

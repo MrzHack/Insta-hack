@@ -2,9 +2,9 @@
 
 Cara memasang dan menjalankan:
 
-pembaruan pkg && peningkatan pkg
+pkg update && pkg upgrade
 
-pkg pasang pyhton2
+pkg install pyhton2
 
 pkg install git
 
@@ -16,8 +16,8 @@ chmod + x Instatools
 
 ./Instatools
 
-Maka Anda harus memilih nomor INSTAGRAM TOOLS
+Then chose the number you want INSTAGRAM TOOLS.
 
-Semoga berhasil. 
+Goodluck. 
 
-Oleh Mr.z
+Created By : Mr.z

@@ -10,11 +10,11 @@ pkg install git
 
 git clone https://github.com/MrzHack/Insta-hack.git
 
-cd instabot
+cd Instatools
 
-chmod + x instabot
+chmod + x Instatools
 
-./instabot
+./Instatools
 
 Maka Anda harus memilih nomor instabot.
 

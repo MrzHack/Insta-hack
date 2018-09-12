@@ -8,7 +8,7 @@ pkg pasang pyhton2
 
 pkg install git
 
-git clone https://github.com/zmnal204/mr.-z.git
+git clone https://github.com/MrzHack/Insta-hack.git
 
 cd instabot
 

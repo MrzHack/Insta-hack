@@ -1,18 +1,14 @@
-# InstaBot
-https://github.com/Senitopeng/instabot.git
+===== >>> INSTA HACK OLEH MR. Z <<< =====
+Cara memasang dan menjalankan:
 
-
-#ini Hanya Penggabungan,
-#Ku Hanya Bantu Agar Lebih Mudah Di Gunakan.
-
-Usage
-
-
+pembaruan pkg && peningkatan pkg
+pkg pasang pyhton2
+pkg install git
+git clone https://github.com/mr.-z/instabot.git
 cd instabot
+chmod + x instabot
+./instabot
 
-pip2 install -r requirements.tx
-
-bash instabot
-
-
-#Masukkan Password Yg kamu Mau Dalam File pass txt.
+Maka Anda harus memilih nomor instabot.
+Semoga berhasil. 
+Oleh Mr.z

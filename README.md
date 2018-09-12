@@ -16,7 +16,7 @@ chmod + x Instatools
 
 ./Instatools
 
-Maka Anda harus memilih nomor instabot.
+Maka Anda harus memilih nomor INSTAGRAM TOOLS
 
 Semoga berhasil. 
 

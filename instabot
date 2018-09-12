@@ -18,11 +18,11 @@ read -p " [Chose The Number]> " Instagram;
 if [ $Instagram = 1 ] || [ $Instagram = 1 ]
 then
 echo "================================================"
-python2 instabot.py;
+python2 igbot.py;
 fi
 
 if [ $Instagram = 2 ] || [ $Instagram = 2 ]
 then
 echo "================================================"
-python2 instahack.py;
+python2 ighack.py;
 fi

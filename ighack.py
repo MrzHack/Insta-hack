@@ -24,7 +24,7 @@ def Input(text):
 
 #The main class
 class Instabrute():
-	def __init__(self, username, passwordsFile='pass.txt'):
+	def __init__(self, username, passwordsFile='wordlist.txt'):
 		self.username = username
 		self.CurrentProxy = ''
 		self.UsedProxys = []
@@ -36,7 +36,7 @@ class Instabrute():
 		self.IsUserExists()
 
 
-		UsePorxy = Input('[*] Do you want to use proxy (y/n): ').upper()
+		UsePorxy = Input('[*] Do you want to use proxy (Y/N): ').upper()
 		if (UsePorxy == 'Y' or UsePorxy == 'YES'):
 			self.randomProxy()
 

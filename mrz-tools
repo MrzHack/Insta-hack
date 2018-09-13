@@ -38,7 +38,7 @@ fi
 
 if [ $play = 3 ] || [ $play = 3 ]
 then
-clear
+echo "================================================"
 cowsay -f kiss.cow "MR.Z TOOLS" | lolcat
 figlet "MR.Z TOOLS" | lolcat
 sleep 1
@@ -54,15 +54,18 @@ fi
 
 if [ $mrz = 5 ] || [ $mrz = 5 ]
 then
+echo "================================================"
 pkg update && pkg upgrade
 pkg install python
 pkg install git
 git clone http://github.com/cyweb/hammer
 cd hammer
-python hammer.py
+python hammer.py;
+fi
 
 if [ $mrz = 4 ] || [ $mrz = 4 ]
 then
+echo "================================================"
 pkg update && pkg upgrade
 pkg install git nano
 pkg install python2
@@ -71,4 +74,5 @@ pip2 install mechanize
 git clone https://github.com/Senitopeng/Boom-CallMail.git
 cd Boom-CallMail
 nano No.txt
-python2 Boom.py
+python2 Boom.py;
+fi

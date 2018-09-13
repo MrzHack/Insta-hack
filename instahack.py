@@ -6,7 +6,7 @@ TODO LIST:
 	Add help function to all "Yes/no" questions
 	Add help  function to "Press enter to exit input"
 '''
-import requests
+import instahack
 import json
 import time
 import os
@@ -139,7 +139,7 @@ class Instabrute():
 
 
 
-instabrute = Instabrute(Input(' Masukkan IG Target: '))
+instabrute = Instabrute(Input(' Masukan ID/EMAIL/NAMA IG Target: '))
 
 try:
 	delayLoop = int(Input('[*] Masukkan Limit/Jeda (in seconds): ')) 

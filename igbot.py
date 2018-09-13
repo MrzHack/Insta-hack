@@ -3,7 +3,7 @@
 import os
 import time
 
-from src import igbot
+from src import igbot.py
 from src.check_status import check_status
 from src.feed_scanner import feed_scanner
 from src.follow_protocol import follow_protocol

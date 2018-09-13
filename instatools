@@ -7,13 +7,14 @@ echo ""
 figlet " INSTAGRAM TOOLS" | lolcat
 echo -e $kiddes "#####################"
 echo "  # CYBER TEAM # " | lolcat
-echo "  # CREATED BY : MR.Z # " | lolcat
+echo "  # CREATED BY : MR.Z# " | lolcat
+echo "  # GOOD LUCK!! # " | lolcat
 echo -e $kiddes "#####################"
 echo -e $kiddies"=======================================" 
 echo " [1] INSTAGRAM BOT"  | lolcat
 echo " [2] INSTAGRAM HACK" | lolcat
 echo -e $kiddies"======================================="
-read -p " [Insta No]> " insta;
+read -p " [INSTAGRAM NO]> " insta;
 
 if [ $insta = 1 ] || [ $insta = 1 ]
 then

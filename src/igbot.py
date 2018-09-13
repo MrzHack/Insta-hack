@@ -21,7 +21,7 @@ from .sql_updates import get_usernames_first, get_usernames, get_username_random
 from .sql_updates import check_and_insert_user_agent
 from fake_useragent import UserAgent
 
-class InstaBot:
+class igBot:
     """
     Instagram bot v 1.2.0
     like_per_day=1000 - How many likes set bot in one day.
@@ -39,7 +39,7 @@ class InstaBot:
     log_mod = 0 - Log mod: log_mod = 0 log to console, log_mod = 1 log to file,
     log_mod = 2 no log.
 
-    https://github.com/LevPasha/instabot.py
+    https://github.com/MrzHack/igbot.py
     """
     database_name = "follows_db.db"
     follows_db = None

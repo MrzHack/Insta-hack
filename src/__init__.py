@@ -1,1 +1,1 @@
-from .igbot import igbot
+from igbot import igbot

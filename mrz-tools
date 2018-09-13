@@ -34,7 +34,7 @@ then
 python2 instahack.py;
 fi
 
-if [ $play = 3 ] || [ $play = 3 ]
+if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 cowsay -f kiss.cow "MR.Z TOOLS" | lolcat
@@ -50,25 +50,23 @@ pkg install mpv
 mpsyt
 fi
 
-if [ $mrz = 5 ] || [ $mrz = 5 ]
+if [ $hammer = 5 ] || [ $hammer = 5 ]
 then
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-git clone http://github.com/cyweb/hammer
-cd hammer
+cd mrz-tools
 python hammer.py;
 fi
 
-if [ $mrz = 4 ] || [ $mrz = 4 ]
+if [ $Boom = 4 ] || [ $Boom = 4 ]
 then
 pkg update && pkg upgrade
 pkg install git nano
 pkg install python2
 pip2 install request
 pip2 install mechanize
-git clone https://github.com/Senitopeng/Boom-CallMail.git
-cd Boom-CallMail
+cd mrz-tools
 nano No.txt
 python2 Boom.py;
 fi

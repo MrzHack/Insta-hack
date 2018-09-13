@@ -26,19 +26,17 @@ read -p " [CHOSE TOOLS NUMBER]> " insta;
 
 if [ $insta = 1 ] || [ $insta = 1 ]
 then
-echo "================================================"
 python2 instabot.py;
 fi
 
 if [ $insta = 2 ] || [ $insta = 2 ]
 then
-echo "================================================"
 python2 instahack.py;
 fi
 
 if [ $play = 3 ] || [ $play = 3 ]
 then
-echo "================================================"
+clear
 cowsay -f kiss.cow "MR.Z TOOLS" | lolcat
 figlet "MR.Z TOOLS" | lolcat
 sleep 1
@@ -54,7 +52,6 @@ fi
 
 if [ $mrz = 5 ] || [ $mrz = 5 ]
 then
-echo "================================================"
 pkg update && pkg upgrade
 pkg install python
 pkg install git
@@ -65,7 +62,6 @@ fi
 
 if [ $mrz = 4 ] || [ $mrz = 4 ]
 then
-echo "================================================"
 pkg update && pkg upgrade
 pkg install git nano
 pkg install python2

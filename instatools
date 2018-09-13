@@ -4,17 +4,22 @@ kiddies='\e[1;31m'
 kiddes='\e[1;33m'
 clear
 echo ""
-figlet " INSTAGRAM TOOLS" | lolcat
-echo -e $kiddes "#####################"
+cowsay -f eyes "/Author By MR.Z" |lolcat
+figlet " MR.Z TOOLS " | lolcat
+date |lolcat
+echo -e $kiddes "#########################################"
 echo "  # CYBER TEAM # " | lolcat
 echo "  # CREATED BY : MR.Z# " | lolcat
+echo $red "  # >>DON'T REEDIT MY SCRIPT,YOU CAN GET ERROR<< # " | lolcat
 echo "  # GOOD LUCK!! # " | lolcat
-echo -e $kiddes "#####################"
+echo -e $kiddes "#########################################"
+echo " NOW YOU CAN SELECT THE TOOLS MR.Z"  | lolcat
 echo -e $kiddies"=======================================" 
 echo " [1] INSTAGRAM BOT"  | lolcat
 echo " [2] INSTAGRAM HACK" | lolcat
+echo " [3] PLAY MUSIC YOUTUBE" | lolcat
 echo -e $kiddies"======================================="
-read -p " [INSTAGRAM NO]> " insta;
+read -p " [CHOSE TOOLS NUMBER]> " insta;
 
 if [ $insta = 1 ] || [ $insta = 1 ]
 then
@@ -27,3 +32,20 @@ then
 echo "================================================"
 python2 instahack.py;
 fi
+
+if [ $play = 3 ] || [ $play = 3 ]
+then
+clear
+cowsay -f kiss.cow "MR.Z TOOLS" | lolcat
+figlet "MR.Z TOOLS" | lolcat
+sleep 1
+apt update && apt upgrade
+apt install pip
+pkg install python
+pkg install python2
+pip install mps_youtube
+pip install youtube_dl
+pkg install mpv
+mpsyt
+fi
+

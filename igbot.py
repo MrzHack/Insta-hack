@@ -3,13 +3,13 @@
 import os
 import time
 
-from src import igbot
+from src import
 from src.check_status import check_status
 from src.feed_scanner import feed_scanner
 from src.follow_protocol import follow_protocol
 from src.unfollow_protocol import unfollow_protocol
 
-bot = InstaBot(
+bot = igbot(
     login=raw_input("Username IG Lu: "),
     password=raw_input("Password IG Lu: "),
     like_per_day=700,

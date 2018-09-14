@@ -34,7 +34,7 @@ then
 python2 instahack.py;
 fi
 
-if [ $bro = 3 ] || [ $bro = 3 ]
+if [ $insta = 3 ] || [ $insta = 3 ]
 then
 clear
 cowsay -f kiss.cow "MR.Z TOOLS" | lolcat
@@ -50,7 +50,7 @@ pkg install mpv
 mpsyt
 fi
 
-if [ $hammer = 5 ] || [ $hammer = 5 ]
+if [ $insta = 5 ] || [ $insta = 5 ]
 then
 pkg update && pkg upgrade
 pkg install python
@@ -59,7 +59,7 @@ cd hammer
 python hammer.py;
 fi
 
-if [ $Boom = 4 ] || [ $Boom = 4 ]
+if [ $insta = 4 ] || [ $insta = 4 ]
 then
 pkg update && pkg upgrade
 pkg install git nano

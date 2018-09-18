@@ -273,7 +273,7 @@ cd $HOME/Auxscan2.0
 python2 auxscan.py
 fi
 
-if [ $mytools = 4 ]
+if [ $mytools = 4 ] || [ $mytools = 4 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -284,7 +284,7 @@ cd $HOME/BinGoo
 bash bingoo
 fi
 
-if [ $mytools = 5 ]
+if [ $mytools = 5 ] || [ $mytools = 5 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -300,7 +300,7 @@ cd $HOME/Black-Hydra
 python2 blackhydra.py
 fi
 
-if [ $mytools = 6 ]
+if [ $mytools = 6 ] || [ $mytools = 6 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -309,7 +309,7 @@ cd module
 python2 facebook.py
 fi
 
-if [ $mytools = 7 ]
+if [ $mytools = 7 ] || [ $mytools = 7 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -317,7 +317,7 @@ cd module
 python2 auto_reaction.py
 fi
 
-if [ $mytools = 8 ]
+if [ $mytools = 8 ] || [ $mytools = 8 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -325,7 +325,7 @@ cd module
 php autolike.php
 fi
 
-if [ $mytools = 9 ]
+if [ $mytools = 9 ] || [ $mytools = 9 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -333,7 +333,7 @@ cd module
 python2 botkomen.py
 fi
 
-if [ $mytools = 11 ]
+if [ $mytools = 11 ] || [ $mytools = 11 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -343,7 +343,7 @@ pkg install w3m
 w3m www.google.com
 fi
 
-if [ $mytools = 12 ]
+if [ $mytools = 12 ] || [ $mytools = 12 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -351,7 +351,7 @@ cd module
 php key.php
 fi
 
-if [ $mytools = 13 ]
+if [ $mytools = 13 ] || [ $mytools = 13 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -362,7 +362,7 @@ cd $HOME/Scan-Website-Admin-Login
 python2 Admin-Login.py
 fi
 
-if [ $mytools = 14 ]
+if [ $mytools = 14 ] || [ $mytools = 14 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -370,13 +370,13 @@ cd module
 python2 upf.py
 fi
 
-if [ $mytools = 15 ]
+if [ $mytools = 15 ] || [ $mytools = 15 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
 netstat - an
 
-if [ $mytools = 16 ]
+if [ $mytools = 16 ] || [ $mytools = 16 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -384,7 +384,7 @@ pkg install neofetech
 neofetech
 fi
 
-if [ $mytools = 17 ]
+if [ $mytools = 17 ] || [ $mytools = 17 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -394,7 +394,7 @@ pkg install irssi
 irssi
 fi
 
-if [ $mytools = 18 ]
+if [ $mytools = 18 ] || [ $mytools = 18 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -408,7 +408,7 @@ cd $HOME/cupp
 python2 cupp.py
 fi
 
-if [ $mytools = 19 ]
+if [ $mytools = 19 ] || [ $mytools = 19 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>" | lolcat
@@ -425,7 +425,7 @@ cd $HOME/CMSmap
 ls
 fi
 
-if [ $mytools = 20 ]
+if [ $mytools = 20 ] || [ $mytools = 20 ]
 then
 clear
 figlet "TORSHAMMER" |lolcat
@@ -436,7 +436,7 @@ cd hammer
 python hammer.py
 fi
 
-if [ $mytools = 21 ]
+if [ $mytools = 21 ] || [ $mytools = 21 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -451,7 +451,7 @@ read -p "MasukanTarget:" target
 python2 LITEDDOS.py target 80 100
 fi
 
-if [ $mytools = 22 ]
+if [ $mytools = 22 ] || [ $mytools = 22 ]
 then
 clear
 toilet -f slant --gay "<=MR.Z=>"
@@ -467,7 +467,7 @@ read -p "[MasukanWebsiteTarget]>" target
 ./xerxes target 80
 fi
 
-if [ $mytools = 23 ]
+if [ $mytools = 23 ] || [ $mytools = 23 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -483,7 +483,7 @@ read -p "[Masukan Website Target]>:" target
 php kawai.php target 4 0 9999
 fi
 
-if [ $mytools = 24 ]
+if [ $mytools = 24 ] || [ $mytools = 24 ]
 then
 clear
 cowsay -f eyes.cow "<=MR.Z=>" | lolcat
@@ -499,7 +499,7 @@ pkg install mpv
 mpsyt
 fi
 
-if [ $mytools = 25 ]
+if [ $mytools = 25 ] || [ $mytools = 25 ]
 then
 clear
 echo "\033[34;1m"
@@ -525,7 +525,7 @@ echo "\033[33;1m"
 echo "Selesai! Tod Cek di $target $script "
 fi
 
-if [ $mytools = 26 ]
+if [ $mytools = 26 ] || [ $mytools = 26 ]
 then
 clear
 toilet -f standard -F gay "BruteWebdav"
@@ -578,7 +578,7 @@ echo "Silahkan Cek Web $Ke10/$script"
 echo "[=============HAPPY DEFACE=============]"
 fi
 
-if [ $mytools = 27 ]
+if [ $mytools = 27 ] || [ $mytools = 27 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -592,7 +592,7 @@ cd $HOME/iesDEFACE
 bash iesDeface.sh
 fi
 
-if [ $mytools = 28 ]
+if [ $mytools = 28 ] || [ $mytools = 28 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -607,7 +607,7 @@ cd $HOME/dirsearch
 ls
 fi
 
-if [ $mytools = 29 ]
+if [ $mytools = 29 ] || [ $mytools = 29 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -621,7 +621,7 @@ cd v1.2
 php diejoubu.php
 fi
 
-if [ $mytools = 30 ]
+if [ $mytools = 30 ] || [ $mytools = 30 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -633,7 +633,7 @@ chmod 777 errorcyber
 ./errorcyber
 fi
 
-if [ $mytools = 31 ]
+if [ $mytools = 31 ] || [ $mytools = 31 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -647,7 +647,7 @@ cd $HOME/ezsploit
 bash ezsploit.sh
 fi
 
-if [ $mytools = 32 ]
+if [ $mytools = 32 ] || [ $mytools = 32 ]
 then
 clear
 "<=MR.Z=>"
@@ -661,7 +661,7 @@ chmod +x setup.sh
 ./setup.sh
 fi
 
-if [ $mytools = 33 ]
+if [ $mytools = 33 ] || [ $mytools = 33 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>" | lolcat
@@ -676,7 +676,7 @@ cd $HOME/Fucking-Rat
 python2 fr.py
 fi
 
-if [ $mytools = 34 ]
+if [ $mytools = 34 ] || [ $mytools = 34 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -691,7 +691,7 @@ cd $HOME/GadoGado
 bash gado
 fi
 
-if [ $mytools = 36 ]
+if [ $mytools = 36 ] || [ $mytools = 36 ]
 then
 clear
 figlet "HACK FB" | lolcat
@@ -700,7 +700,7 @@ cd data
 python2 mbf.py
 fi
 
-if [ $mytools = 37 ]
+if [ $mytools = 37 ] || [ $mytools = 37 ]
 then
 clear
 figlet "HACK" | lolcat
@@ -709,7 +709,7 @@ cd data
 python2 hackinsta.py wordlist.txt
 fi
 
-if [ $mytools = 38 ]
+if [ $mytools = 38 ] || [ $mytools = 38 ]
 then
 clear
 figlet "HACK" | lolcat
@@ -718,7 +718,7 @@ cd data
 python2 gmail.py wordlist.txt
 fi
 
-if [ $mytools = 39 ]
+if [ $mytools = 39 ] || [ $mytools = 39 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -734,7 +734,7 @@ cd $HOME/hasher
 python2 hash.py
 fi
 
-if [ $mytools = 40 ]
+if [ $mytools = 40 ] || [ $mytools = 40 ]
 then
 clear
 toilet -f mono12 -F gay "<=MR.Z=>"
@@ -747,7 +747,7 @@ cd $HOME/Hash-Buster
 python2 hash.py
 fi
 
-if [ $mytools = 41 ]
+if [ $mytools = 41 ] || [ $mytools = 41 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>" | lolcat
@@ -762,7 +762,7 @@ cd $HOME/HN-Installer
 python2 HN-Install.py
 fi
 
-if [ $mytools = 42 ]
+if [ $mytools = 42 ] || [ $mytools = 42 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -775,7 +775,7 @@ chmod +x hunner.py
 python2 hunner.py
 fi
 
-if [ $mytools = 43 ]
+if [ $mytools = 43 ] || [ $mytools = 43 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -790,7 +790,7 @@ cd $HOME/Human_Level_Control_through_Deep_Reinforcement_Learning
 sh install_dependencies.sh
 fi
 
-if [ $mytools = 44 ]
+if [ $mytools = 44 ] || [ $mytools = 44 ]
 then
 clearm
 toilet -f big -F gay "<=MR.Z=>"
@@ -805,7 +805,7 @@ cd $HOME/php-spam-mail-honeypot
 php honeypot.php
 fi
 
-if [ $mytools = 45 ]
+if [ $mytools = 45 ] || [ $mytools = 45 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -817,7 +817,7 @@ pkg install php
 pkg install hydra
 fi
 
-if [ $mytools = 46 ]
+if [ $mytools = 46 ] || [ $mytools = 46 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -836,7 +836,7 @@ read -p "[Masukan Ip dan port]=>:" target
 python2 ipddos.py target
 fi
 
-if [ $mytools = 47 ]
+if [ $mytools = 47 ] || [ $mytools = 47 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -855,7 +855,7 @@ read -p "[Masukan IP/website]>" target
 python ipgeolocation.py -t target
 fi
 
-if [ $mytools = 48 ]
+if [ $mytools = 48 ] || [ $mytools = 48 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -872,7 +872,7 @@ pip install -r req
 python2 infoga.py
 fi
 
-if [ $mytools = 49 ]
+if [ $mytools = 49 ] || [ $mytools = 49 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>" | lolcat
@@ -887,7 +887,7 @@ cd $HOME/joomscan
 ls
 fi
 
-if [ $mytools = 50 ]
+if [ $mytools = 50 ] || [ $mytools = 50 ]
 then
 clear
 cowsay -f sheep.cow "<=MR.Z=>" | lolcat
@@ -898,7 +898,7 @@ cd module
 python2 katoolin.py
 fi
 
-if [ $mytools = 51 ]
+if [ $mytools = 51 ] || [ $mytools = 51 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -913,7 +913,7 @@ chmod 777 kalinethunter
 sh kalinethunter
 fi
 
-if [ $mytools = 52 ]
+if [ $mytools = 52 ] || [ $mytools = 52 ]
 then
 clear
 toilet -f big -F gay " <=MR.Z=> " | lolcat
@@ -929,7 +929,7 @@ chmod +x ubuntu.sh
 sh ubuntu.sh
 fi
 
-if [ $mytools = 53 ]
+if [ $mytools = 53 ] || [ $mytools = 53 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -944,7 +944,7 @@ cd $HOME/killr
 php server.php
 fi
 
-if [ $mytools = 54 ]
+if [ $mytools = 54 ] || [ $mytools = 54 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -957,7 +957,7 @@ cd $HOME/ko-dork
 python2 dork.py
 fi
 
-if [ $mytools = 55 ]
+if [ $mytools = 55 ] || [ $mytools = 55 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -968,7 +968,7 @@ cd module
 python2 lazymux.py
 fi
 
-if [ $mytools = 56 ]
+if [ $mytools = 56 ] || [ $mytools = 56 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -984,7 +984,7 @@ chmod 777 install.sh
 lazysqlmap
 fi
 
-if [ $mytools = 57 ]
+if [ $mytools = 57 ] || [ $mytools = 57 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -996,7 +996,7 @@ cd $HOME/lhst
 python2 lhst.py
 fi
 
-if [ $mytools = 58 ]
+if [ $mytools = 58 ] || [ $mytools = 58 ]
 then
 clear
 echo -e $green" installing fedora "
@@ -1011,7 +1011,7 @@ chmod +x termux-fedora.sh
 sh termux-fedora.sh
 fi
 
-if [ $mytools = 59 ]
+if [ $mytools = 59 ] || [ $mytools = 59 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -1025,7 +1025,7 @@ cd
 php lokomedia.php
 fi
 
-if [ $mytools = 60 ]
+if [ $mytools = 60 ] || [ $mytools = 60 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1037,7 +1037,7 @@ cd $HOME/md5-crack
 python2 md5.py
 fi
 
-if [ $mytools = 61 ]
+if [ $mytools = 61 ] || [ $mytools = 61 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -1051,7 +1051,7 @@ echo ""
 ping -D www.google.com
 fi
 
-if [ $mytools = 62 ]
+if [ $mytools = 62 ] || [ $mytools = 62 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -1068,7 +1068,7 @@ cd $HOME/metasploit-framework
 ./msfconsole
 fi
 
-if [ $mytools = 63 ]
+if [ $mytools = 63 ] || [ $mytools = 63 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1076,7 +1076,7 @@ pkg install moon-buggy
 moon-buggy
 fi
 
-if [ $mytools = 64 ]
+if [ $mytools = 64 ] || [ $mytools = 64 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -1086,7 +1086,7 @@ cd module
 python2 r.py
 fi
 
-if [ $mytools = 65 ]
+if [ $mytools = 65 ] || [ $mytools = 65 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1100,7 +1100,7 @@ php autoload.php
 php mulung.php
 fi
 
-if [ $mytools = 66 ]
+if [ $mytools = 66 ] || [ $mytools = 66 ]
 then
 clear
 toilet -f big -F gay " <=MR.Z=> "
@@ -1116,7 +1116,7 @@ cd ~/
 ls
 fi
 
-if [ $mytools = 67 ]
+if [ $mytools = 67 ] || [ $mytools = 67 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>"
@@ -1131,7 +1131,7 @@ cd $HOME/OWASP-Nettacker
 python2 setup.py
 fi
 
-if [ $mytools = 68 ]
+if [ $mytools = 68 ] || [ $mytools = 68 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -1146,7 +1146,7 @@ cd $HOME/OWScan
 php owscan.php
 fi
 
-if [ $mytools = 69 ]
+if [ $mytools = 69 ] || [ $mytools = 69 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -1159,7 +1159,7 @@ cd $HOME/weeman
 python2 weeman.py
 fi
 
-if [ $mytools = 70 ]
+if [ $mytools = 70 ] || [ $mytools = 70 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1190,7 +1190,7 @@ pip2 install wget
 python2 SocialFish.py
 fi
 
-if [ $mytools = 72 ]
+if [ $mytools = 72 ] || [ $mytools = 72 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -1198,7 +1198,7 @@ cd module
 python2 dog.py
 fi
 
-if [ $mytools = 73 ]
+if [ $mytools = 73 ] || [ $mytools = 73 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1214,7 +1214,7 @@ chmod +x rhawk.php
 php rhawk.php
 fi
 
-if [ $mytools = 74 ]
+if [ $mytools = 74 ] || [ $mytools = 74 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -1222,7 +1222,7 @@ cd module
 python2 htmd.py
 fi
 
-if [ $mytools =  76 ]
+if [ $mytools =  76 ] || [ $mytools = 76 ]
 then
 clear
 echo "\033[31;1m"
@@ -1240,7 +1240,7 @@ python2 Multispam.py --count=1000 target
 sleep 1
 fi
 
-if [ $mytools = 77 ]
+if [ $mytools = 77 ] || [ $mytools = 77 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1258,7 +1258,7 @@ cd $HOME/LITESPAM
 sh LITESPAM.sh
 fi
 
-if [ $mytools = 78 ]
+if [ $mytools = 78 ] || [ $mytools = 78 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -1274,7 +1274,7 @@ nano No.txt
 python2 Boom.py
 fi
 
-if [ $mytools = 79 ]
+if [ $mytools = 79 ] || [ $mytools = 79 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -1282,7 +1282,7 @@ cd module
 php tp.php
 fi
 
-if [ $mytools = 80 ]
+if [ $mytools = 80 ] || [ $mytools = 80 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -1290,14 +1290,14 @@ cd module
 php t.php
 fi
 
-if [ $mytools = 81 ]
+if [ $mytools = 81 ] || [ $mytools = 81 ]
 then
 figlet "<=MR.Z=>"
 cd module
 php mataharimall.php
 fi
 
-if [ $mytools = 82 ]
+if [ $mytools = 82 ] || [ $mytools = 82 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -1305,7 +1305,7 @@ cd module
 php hooq.php
 fi
 
-if [ $mytools = 83 ]
+if [ $mytools = 83 ] || [ $mytools = 83 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -1319,7 +1319,7 @@ cd $HOME
 php jdid.php
 fi
 
-if [ $mytools = 84 ]
+if [ $mytools = 84 ] || [ $mytools = 84 ]
 then
 clear
 toilet -f slant --gay "<=MR.Z=>"
@@ -1327,7 +1327,7 @@ cd module
 php kfc.php
 fi
 
-if [ $mytools = 85 ]
+if [ $mytools = 85 ] || [ $mytools = 85 ]
 then
 clear
 toilet -f mono12 -F gay "<=MR.Z=>"
@@ -1335,7 +1335,7 @@ cd module
 php phd.php
 fi
 
-if [ $mytools = 86 ]
+if [ $mytools = 86 ] || [ $mytools = 86 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -1343,7 +1343,7 @@ cd module
 php whiskas.php
 fi
 
-if [ $mytools = 87 ]
+if [ $mytools = 87 ] || [ $mytools = 87 ]
 then
 clear
 figlet "<=MR.Z=>"
@@ -1351,7 +1351,7 @@ cd module
 php zipay.php
 fi
 
-if [ $mytools = 88 ]
+if [ $mytools = 88 ] || [ $mytools = 88 ]
 then
 clear
 toilet -f slant -F gay "<=MR.Z=>"
@@ -1362,7 +1362,7 @@ cd module
 php sqlscan.php
 fi
 
-if [ $mytools = 89 ]
+if [ $mytools = 89 ] || [ $mytools = 89 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1375,7 +1375,7 @@ read -p "Masukan Web Target:" target
 python2 sqlmap.py -D target
 fi
 
-if [ $mytools = 90 ]
+if [ $mytools = 90 ] || [ $mytools = 90 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -1390,7 +1390,7 @@ cd $HOME/Termux-A
 php run.php
 fi
 
-if [ $mytools = 91 ]
+if [ $mytools = 91 ] || [ $mytools = 91 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
@@ -1402,7 +1402,7 @@ python2 update.py
 txtool
 fi
 
-if [ $mytools = 92 ]
+if [ $mytools = 92 ] || [ $mytools = 92 ]
 then
 clear
 toilet -f standard -F gay "<=MR.Z=>"
@@ -1459,7 +1459,7 @@ echo "\033[33;1mCara Scan Situs Di Termux:" "\033[36;1mhttps://youtu.be/h2I5HU3W
 echo "\033[33;1mCara DDOS Di Termux:" "\033[36;1mhttps://youtu.be/EskgepQSB7U"
 fi
 
-if [ $mytools = 93 ]
+if [ $mytools = 93 ] || [ $mytools = 93 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -1467,7 +1467,7 @@ cd module
 python2 anvima.py
 fi
 
-if [ $mytools = 94 ]
+if [ $mytools = 94 ] || [ $mytools = 94 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -1484,7 +1484,7 @@ read -p "[Masukan Website Target]>" target
 python2 viSQL.py -t target
 fi
 
-if [ $mytools = 95 ]
+if [ $mytools = 95 ] || [ $mytools = 95 ]
 then
 clear
 toilet -f big -F gay "<=MR.Z=>" | lolcat
@@ -1499,7 +1499,7 @@ cd $HOME/VulnScaner
 python2 VulnScaner.py
 fi
 
-if [ $mytools = 96 ]
+if [ $mytools = 96 ] || [ $mytools = 96 ]
 then
 clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
@@ -1518,7 +1518,7 @@ chmod +x wascan.py
 python2 wascan.py
 fi
 
-if [ $mytools = 97 ]
+if [ $mytools = 97 ] || [ $mytools = 97 ]
 then
 clear
 toilet "<=MR.Z=>"
@@ -1526,7 +1526,7 @@ cd module
 python2 whs.py
 fi
 
-if [ $mytools = 98 ]
+if [ $mytools = 98 ] || [ $mytools = 98 ]
 then
 echo "BERHASIL KELUAR" |lolcat
 sleep 1

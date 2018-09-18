@@ -695,8 +695,11 @@ if [ $mytools = 36 ]
 then
 clear
 figlet "HACK FB" | lolcat
+pkg update && pkg upgrade -y
 pkg install python2
-cd data
+pkg install git
+git clone https://github.com/hnov7/mbf.git
+cd mbf
 python2 mbf.py
 fi
 

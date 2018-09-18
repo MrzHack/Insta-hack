@@ -1526,7 +1526,7 @@ cd data
 python2 whs.py
 fi
 
-if [ $mytools = 98 ] || [ $mytools = 98 ]
+if [ $mytools = 98 ]
 then
 echo "BERHASIL KELUAR" |lolcat
 sleep 1

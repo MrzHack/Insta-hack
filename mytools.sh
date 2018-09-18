@@ -305,7 +305,7 @@ then
 clear
 figlet "<=MR.Z=>" | lolcat
 sleep 1
-cd module
+cd data
 python2 facebook.py
 fi
 
@@ -313,7 +313,7 @@ if [ $mytools = 7 ] || [ $mytools = 7 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 python2 auto_reaction.py
 fi
 
@@ -321,7 +321,7 @@ if [ $mytools = 8 ] || [ $mytools = 8 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 php autolike.php
 fi
 
@@ -329,7 +329,7 @@ if [ $mytools = 9 ] || [ $mytools = 9 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
-cd module
+cd data
 python2 botkomen.py
 fi
 
@@ -347,7 +347,7 @@ if [ $mytools = 12 ] || [ $mytools = 12 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 php key.php
 fi
 
@@ -366,7 +366,7 @@ if [ $mytools = 14 ] || [ $mytools = 14 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 python2 upf.py
 fi
 
@@ -894,7 +894,7 @@ cowsay -f sheep.cow "<=MR.Z=>" | lolcat
 figlet "Mr.B4J1N64N" | lolcat
 sleep 1
 cd
-cd module
+cd data
 python2 katoolin.py
 fi
 
@@ -964,7 +964,7 @@ figlet "<=MR.Z=>" | lolcat
 apt update && upgrade
 apt install python2
 apt install git
-cd module
+cd data
 python2 lazymux.py
 fi
 
@@ -1082,7 +1082,7 @@ clear
 cowsay -f kiss.cow "<=MR.Z=>" | lolcat
 figlet "<=MR.Z=>" | lolcat
 sleep 1
-cd module
+cd data
 python2 r.py
 fi
 
@@ -1194,7 +1194,7 @@ if [ $mytools = 72 ] || [ $mytools = 72 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 python2 dog.py
 fi
 
@@ -1218,7 +1218,7 @@ if [ $mytools = 74 ] || [ $mytools = 74 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 python2 htmd.py
 fi
 
@@ -1278,7 +1278,7 @@ if [ $mytools = 79 ] || [ $mytools = 79 ]
 then
 clear
 figlet "<=MR.Z=>" | lolcat
-cd module
+cd data
 php tp.php
 fi
 
@@ -1286,14 +1286,14 @@ if [ $mytools = 80 ] || [ $mytools = 80 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 php t.php
 fi
 
 if [ $mytools = 81 ] || [ $mytools = 81 ]
 then
 figlet "<=MR.Z=>"
-cd module
+cd data
 php mataharimall.php
 fi
 
@@ -1301,7 +1301,7 @@ if [ $mytools = 82 ] || [ $mytools = 82 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 php hooq.php
 fi
 
@@ -1323,7 +1323,7 @@ if [ $mytools = 84 ] || [ $mytools = 84 ]
 then
 clear
 toilet -f slant --gay "<=MR.Z=>"
-cd module
+cd data
 php kfc.php
 fi
 
@@ -1331,7 +1331,7 @@ if [ $mytools = 85 ] || [ $mytools = 85 ]
 then
 clear
 toilet -f mono12 -F gay "<=MR.Z=>"
-cd module
+cd data
 php phd.php
 fi
 
@@ -1339,7 +1339,7 @@ if [ $mytools = 86 ] || [ $mytools = 86 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 php whiskas.php
 fi
 
@@ -1347,7 +1347,7 @@ if [ $mytools = 87 ] || [ $mytools = 87 ]
 then
 clear
 figlet "<=MR.Z=>"
-cd module
+cd data
 php zipay.php
 fi
 
@@ -1358,7 +1358,7 @@ toilet -f slant -F gay "<=MR.Z=>"
 pkg install update && pkg install upgrade
 pkg install git
 pkg install php
-cd module
+cd data
 php sqlscan.php
 fi
 
@@ -1463,7 +1463,7 @@ if [ $mytools = 93 ] || [ $mytools = 93 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 python2 anvima.py
 fi
 
@@ -1522,7 +1522,7 @@ if [ $mytools = 97 ] || [ $mytools = 97 ]
 then
 clear
 toilet "<=MR.Z=>"
-cd module
+cd data
 python2 whs.py
 fi
 
